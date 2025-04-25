@@ -8,9 +8,14 @@ function App() {
 
   return (
     <>
-      
-      
-    </> 
+    <body>
+    <h1>Maria enzo</h1>
+    <div className="raio">
+    
+    </div>
+    <img src="../img/raios.png" alt="" />
+    </body>
+    </>
   )
 }
 
